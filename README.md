@@ -23,10 +23,10 @@ Here are some ideas to get you started:
   <img alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact" width="48%"/>
 </p>
 -->
-
-<img alt="mystats" align="center" width="53%" src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=transparent"/>
-<img alt="lang" align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact"/> 
-
+<div style="display:flex;">
+<img alt="mystats" align="left" width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=transparent"/>
+<img alt="lang" align="right" width="48%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact"/> 
+</div>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=pie)](https://github.com/daudputra/github-readme-stats)
