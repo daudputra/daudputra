@@ -28,7 +28,14 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Daudputra&theme=tokyonight&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 -->
-<img src="https://streak-stats.demolab.com?user=Daudputra&theme=tokyonight&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j" alt="GitHub Streak" style="display: block; margin-left: auto; margin-right: auto; margin-top: 20px;"/>
+
+<div align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Daudputra&theme=tokyonight&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
+    </a>
+</div>
+
+
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact)
