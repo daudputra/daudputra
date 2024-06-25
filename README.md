@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 <img alt="mystats" align="left" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=transparent"/>
 <img alt="lang" align="left" width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact"/> 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Daudputra&theme=tokyonight&hide_border=true&locale=ja&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 -->
 
 <div align="center">
@@ -35,8 +33,20 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-
-
+<details>
+  <summary>🪪Github Stats</summary>
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true" />
+</picture>
+</details>
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=pie)](https://github.com/daudputra/github-readme-stats)
