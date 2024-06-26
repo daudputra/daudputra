@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     </a>
 </div>
 
-[![Spotify](https://spotify-play-profile-github.vercel.app/api/spotify)](https://open.spotify.com/user/31pligpuzqvexjemlksgpifrzuha)
+[![Spotify](https://spotify-play-profile-github-daud-putras-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31pligpuzqvexjemlksgpifrzuha)
 
 
 <details>
