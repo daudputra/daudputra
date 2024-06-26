@@ -33,6 +33,9 @@ Here are some ideas to get you started:
     </a>
 </div>
 
+[![Spotify](https://spotify-play-profile-github.vercel.app/api/spotify)](https://open.spotify.com/user/31pligpuzqvexjemlksgpifrzuha)
+
+
 <details>
   <summary>🪪Github Stats</summary>
   <picture>
@@ -47,6 +50,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true" />
 </picture>
 </details>
+
+
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=pie)](https://github.com/daudputra/github-readme-stats)
