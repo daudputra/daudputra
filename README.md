@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </details>
 
 
-
 <!--
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daudputra)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=pie)](https://github.com/daudputra/github-readme-stats)
