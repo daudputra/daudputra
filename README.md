@@ -16,16 +16,25 @@ Here are some ideas to get you started:
 -->
 
 
-
-<!--
 <p align="center">
-  <img alt="mystats" src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=transparent" width="48%"/>
-  <img alt="lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact" width="48%"/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/daudputra/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg" alt="Profile Details">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/daudputra/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg" alt="Repos per Language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/daudputra/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg" alt="Most Commit Language">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/daudputra/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg" alt="Stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/daudputra/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg" alt="Productive Time">
+  </a>
 </p>
 
-<img alt="mystats" align="left" width="50%" height="auto" src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=transparent"/>
-<img alt="lang" align="left" width="45%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact"/> 
--->
+
 
 <div align="center">
     <a href="https://git.io/streak-stats">
