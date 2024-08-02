@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 </details>
 
 
+<!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
   
   <br/><br/><br/>
 </div>
+-->
 
 <!-- BEGIN YOUTUBE-CARDS 
 [![Lefties are Discriminated Against](https://ytcards.demolab.com/?id=3Y80EODrJ_Y&title=Lefties+are+Discriminated+Against&lang=en&timestamp=1722096003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Lefties are Discriminated Against")](https://www.youtube.com/watch?v=3Y80EODrJ_Y)
