@@ -27,19 +27,20 @@ Here are some ideas to get you started:
 
 <details>
   <summary>🪪Github Stats</summary>
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true" />
-</picture>
-</details>
 
+<div align="center">    
+  <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true" />
+    </picture>
+    <picture>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact&langs_count=20&theme=tokyonight"/>
+    </picture>
+</div>
+</details>
 
 <!--
 <div align="center">
