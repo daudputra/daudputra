@@ -42,11 +42,11 @@ Here are some ideas to get you started:
 </div>
 </details>
 
-
+<!--
 <p align="center">
   <img src="https://moe-counter.glitch.me/get/@daudputra?theme=rule34">
 </p>
-
+-->
 <!--
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
