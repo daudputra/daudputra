@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 <div align="center">    
   <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=tokyonight"
+        srcset="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true&theme=react"
         media="(prefers-color-scheme: dark)"
       />
       <img src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true" />
     </picture>
     <picture>
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact&langs_count=20&theme=tokyonight"/>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact&langs_count=20&theme=react"/>
     </picture>
 </div>
 </details>
