@@ -42,9 +42,10 @@ Here are some ideas to get you started:
 </div>
 </details>
 
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daudputra&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
+<!--https://github.com/user-attachments/assets/f7d6b826-44f8-4dfe-91ba-2ed0bc03fbf0
 <!---
 <div align="center">
     <a href="https://google.com">
