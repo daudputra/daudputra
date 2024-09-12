@@ -43,3 +43,20 @@ Here are some ideas to get you started:
 </details>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daudputra&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<!---
+<div align="center">
+    <a href="https://google.com">
+        <img src="https://github.com/user-attachments/assets/1adb3c67-cc81-41fc-8392-01215657d913" alt="ADO" width="80px" height="80px" style="margin: 10px;">
+    </a>
+    <a href="https://google.com">
+        <img src="https://github.com/user-attachments/assets/1adb3c67-cc81-41fc-8392-01215657d913" alt="ADO" width="80px" height="80px" style="margin: 10px;">
+    </a>
+    <a href="https://google.com">
+        <img src="https://github.com/user-attachments/assets/1adb3c67-cc81-41fc-8392-01215657d913" alt="ADO" width="80px" height="80px" style="margin: 10px;">
+    </a>
+</div>
+
+
+
