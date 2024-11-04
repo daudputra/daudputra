@@ -17,7 +17,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=daudputra&show_icons=true" />
     </picture>
     <picture>
-        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact&langs_count=20&theme=react"/>
+        <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daudputra&layout=compact&langs_count=10&theme=react"/>
     </picture>
 </div>
 </details>
