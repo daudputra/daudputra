@@ -25,6 +25,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daudputra&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,tailwind, vscode" alt="My Skills">
+  </a>
+</p>
+
 <!--https://github.com/user-attachments/assets/f7d6b826-44f8-4dfe-91ba-2ed0bc03fbf0
 <!---
 <div align="center">
