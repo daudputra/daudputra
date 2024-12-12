@@ -1,0 +1,7 @@
+feat: Menambahkan fitur baru.
+fix: Memperbaiki bug atau masalah.
+docs: Perubahan pada dokumentasi saja (README, komentar, dll.).
+style: Perubahan yang tidak memengaruhi kode secara logis (formatting, spasi, dll.).
+refactor: Perubahan pada kode yang tidak memperbaiki bug atau menambah fitur, tetapi meningkatkan struktur kode.
+test: Menambahkan atau memperbarui pengujian (tests).
+chore: Perubahan kecil lainnya seperti pembaruan dependency, build tasks, dll
