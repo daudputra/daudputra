@@ -1,9 +1,8 @@
 <div align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=Daudputra&theme=black-ice&hide_border=true&locale=en&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
+        <img src="https://streak-stats.demolab.com?user=daudputra&theme=black-ice&hide_border=true&locale=en&date_format=%5BY.%5Dn.j" alt="GitHub Streak"/>
     </a> 
-</div> 
-  
+</div>   
 
 <details>
   <summary>🪪Github Stats</summary>
